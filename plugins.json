@@ -1,0 +1,57 @@
+[
+  {
+    "url": "https://TONPSEUDO.github.io/cloudstream-repo/builds/Source1.cs3",
+    "status": 1,
+    "version": 1,
+    "apiVersion": 1,
+    "name": "Source 1",
+    "internalName": "Source1",
+    "authors": [
+      "Toi"
+    ]
+  },
+  {
+    "url": "https://TONPSEUDO.github.io/cloudstream-repo/builds/Source2.cs3",
+    "status": 1,
+    "version": 1,
+    "apiVersion": 1,
+    "name": "Source 2",
+    "internalName": "Source2",
+    "authors": [
+      "Toi"
+    ]
+  },
+  {
+    "url": "https://TONPSEUDO.github.io/cloudstream-repo/builds/Source3.cs3",
+    "status": 1,
+    "version": 1,
+    "apiVersion": 1,
+    "name": "Source 3",
+    "internalName": "Source3",
+    "authors": [
+      "Toi"
+    ]
+  },
+  {
+    "url": "https://TONPSEUDO.github.io/cloudstream-repo/builds/Source4.cs3",
+    "status": 1,
+    "version": 1,
+    "apiVersion": 1,
+    "name": "Source 4",
+    "internalName": "Source4",
+    "authors": [
+      "Toi"
+    ]
+  },
+  {
+    "url": "https://TONPSEUDO.github.io/cloudstream-repo/builds/Source5.cs3",
+    "status": 1,
+    "version": 1,
+    "apiVersion": 1,
+    "name": "Source 5",
+    "internalName": "Source5",
+    "authors": [
+      "Toi"
+    ]
+  }
+]

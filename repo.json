@@ -1,0 +1,8 @@
+{
+  "name": "Mon Repo Streaming",
+  "description": "Mes sources personnalisées",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://TONPSEUDO.github.io/cloudstream-repo/plugins.json"
+  ]
+}
