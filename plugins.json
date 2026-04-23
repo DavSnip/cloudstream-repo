@@ -4,11 +4,15 @@
     "status": 1,
     "version": 1,
     "apiVersion": 1,
-    "name": "Papadustream",
-    "internalName": "Papadustream",
-    "authors": [
-      "Toi"
-    ]
+    "name": "Flemmix",
+    "internalName": "Flemmix",
+    "authors": ["DavSnip"],
+    "description": "Plugin Papaductream",
+    "repositoryUrl": "https://github.com/DavSnip/cloudstream-repo",
+    "tvTypes": ["Movie", "TvSeries"],
+    "language": "fr",
+    "iconUrl": "https://DavSnip.github.io/cloudstream-repo/icons/Papadustream.png",
+    "isAdult": false
   },
   {
     "url": "https://DavSnip.github.io/cloudstream-repo/builds/Flemmix.cs3",
@@ -17,9 +21,13 @@
     "apiVersion": 1,
     "name": "Flemmix",
     "internalName": "Flemmix",
-    "authors": [
-      "Toi"
-    ]
+    "authors": ["DavSnip"],
+    "description": "Plugin Flemmix",
+    "repositoryUrl": "https://github.com/DavSnip/cloudstream-repo",
+    "tvTypes": ["Movie", "TvSeries"],
+    "language": "fr",
+    "iconUrl": "https://DavSnip.github.io/cloudstream-repo/icons/Flemmix.png",
+    "isAdult": false
   },
   {
     "url": "https://DavSnip.github.io/cloudstream-repo/builds/Dulourd.cs3",
@@ -28,9 +36,13 @@
     "apiVersion": 1,
     "name": "Dulourd",
     "internalName": "Dulourd",
-    "authors": [
-      "Toi"
-    ]
+    "authors": ["DavSnip"],
+    "description": "Plugin Dulourd",
+    "repositoryUrl": "https://github.com/DavSnip/cloudstream-repo",
+    "tvTypes": ["Movie", "TvSeries"],
+    "language": "fr",
+    "iconUrl": "https://DavSnip.github.io/cloudstream-repo/icons/Dulourd.png",
+    "isAdult": false
   },
   {
     "url": "https://DavSnip.github.io/cloudstream-repo/builds/1jour1film.cs3",
@@ -39,9 +51,13 @@
     "apiVersion": 1,
     "name": "1jour1film",
     "internalName": "1jour1film",
-    "authors": [
-      "Toi"
-    ]
+    "authors": ["DavSnip"],
+    "description": "Plugin 1jour1film",
+    "repositoryUrl": "https://github.com/DavSnip/cloudstream-repo",
+    "tvTypes": ["Movie", "TvSeries"],
+    "language": "fr",
+    "iconUrl": "https://DavSnip.github.io/cloudstream-repo/icons/1jour1film.png",
+    "isAdult": false
   },
   {
     "url": "https://DavSnip.github.io/cloudstream-repo/builds/Coflix.cs3",
@@ -50,8 +66,12 @@
     "apiVersion": 1,
     "name": "Coflix",
     "internalName": "Coflix",
-    "authors": [
-      "Toi"
-    ]
+    "authors": ["DavSnip"],
+    "description": "Plugin Coflix",
+    "repositoryUrl": "https://github.com/DavSnip/cloudstream-repo",
+    "tvTypes": ["Movie", "TvSeries"],
+    "language": "fr",
+    "iconUrl": "https://DavSnip.github.io/cloudstream-repo/icons/Coflix.png",
+    "isAdult": false
   }
 ]
