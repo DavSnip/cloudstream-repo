@@ -45,18 +45,18 @@
     "isAdult": false
   },
   {
-    "url": "https://DavSnip.github.io/cloudstream-repo/builds/1jour1film.cs3",
+    "url": "https://DavSnip.github.io/cloudstream-repo/builds/UnjourUnfilm.cs3",
     "status": 1,
     "version": 1,
     "apiVersion": 1,
-    "name": "1jour1film",
-    "internalName": "1jour1film",
+    "name": "UnjourUnfilm",
+    "internalName": "UnjourUnfilm",
     "authors": ["DavSnip"],
-    "description": "Plugin 1jour1film",
+    "description": "Plugin UnjourUnfilm",
     "repositoryUrl": "https://github.com/DavSnip/cloudstream-repo",
     "tvTypes": ["Movie", "TvSeries"],
     "language": "fr",
-    "iconUrl": "https://DavSnip.github.io/cloudstream-repo/icons/1jour1film.png",
+    "iconUrl": "https://DavSnip.github.io/cloudstream-repo/icons/UnjourUnfilm.png",
     "isAdult": false
   },
   {
